@@ -1,1 +1,1 @@
-LIVE SERVER : https://quizsystem.infinityfreeapp.com/
+LIVE SERVER : https://quizsystem1.infinityfreeapp.com/
