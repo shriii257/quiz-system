@@ -1,2 +1,2 @@
-WEB TECHNOLOGY SUBJECT PROJECT
+WEB TECHNOLOGY PROJECT
 LIVE SERVER : https://quizsystem1.infinityfreeapp.com/
