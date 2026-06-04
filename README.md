@@ -1,2 +1,1 @@
-WEB TECHNOLOGY PROJECT
-LIVE SERVER : https://quizsystem1.infinityfreeapp.com/
+WEB TECHNOLOGY PROJECT: https://quizsystem1.infinityfreeapp.com/
